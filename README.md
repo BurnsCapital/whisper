@@ -1,4 +1,4 @@
-![whisperlogo][logo]
+![whisperlogo](https://github.com/BurnsCapital/whisper/blob/master/lib/logo.jpg)
 # Whisper subprotocol [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository gathers various whisper-related tools
@@ -113,4 +113,3 @@ To the extent possible under law, the author has waived all copyright and
 related or neighboring rights to this work.
 
 
-[logo]:https://github.com/burnscapital/whisper/lib/logo.jpg

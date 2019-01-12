@@ -35,19 +35,19 @@ Implementations of the Whisper subprotocol
 
 ### Specifications / White Papers
 
-- [EIP-627: Whisper Specification][https://github.com/ethereum/EIPs/blob/master/EIPS/eip-627.md]
+- [EIP-627: Whisper Specification](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-627.md)
 
-- [Formal spec][https://github.com/ethereum/whisper/spec/WHISPER.md]
+- [Formal spec](https://github.com/ethereum/whisper/spec/WHISPER.md)
 
 ### Wiki guides
 
-- [Whisper wiki][https://github.com/ethereum/go-ethereum/wiki/Whisper]
+- [Whisper wiki](https://github.com/ethereum/go-ethereum/wiki/Whisper)
 
 ## Applications
 
 ### Desktop Interfaces
 
-- [wnode][https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode]
+- [wnode](https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode)
 
 ### Web Interfaces
 
@@ -63,43 +63,43 @@ Implementations of the Whisper subprotocol
 
 ### Libraries
 
-- [web3.js - shh][https://web3js.readthedocs.io/en/1.0/web3-shh.html]
+- [web3.js - shh](https://web3js.readthedocs.io/en/1.0/web3-shh.html)
 
 ### Tutorials
 
-- [Whisper — Shh! - CaelumL abs][https://medium.com/caelumlabs/whisper-shh-bc5416ec0046]
+- [Whisper — Shh! - CaelumL abs](https://medium.com/caelumlabs/whisper-shh-bc5416ec0046)
 
-- [Introducing Bloom Payment Channels Enabled By Ethereum Whisper][https://blog.hellobloom.io/introducing-bloom-payment-channels-enabled-by-ethereum-whisper-1fec8ba10a03]
+- [Introducing Bloom Payment Channels Enabled By Ethereum Whisper](https://blog.hellobloom.io/introducing-bloom-payment-channels-enabled-by-ethereum-whisper-1fec8ba10a03)
 
 ### Example Projects
 
-- [Decentralized Application Messaging with Whisper][https://blog.enuma.io/update/2018/08/08/decentralized-application-messaging-with-whisper.html]
+- [Decentralized Application Messaging with Whisper](https://blog.enuma.io/update/2018/08/08/decentralized-application-messaging-with-whisper.html)
 
 ## Learning Resources
 
 ### Talks
 
-- [DevCon 0: Whisper: the Multi DHT Messaging System with routing Privacy  - Gavin Wood][https://www.youtube.com/watch?v=BrWlAtfqF6s]
+- [DevCon 0: Whisper: the Multi DHT Messaging System with routing Privacy  - Gavin Wood](https://www.youtube.com/watch?v=BrWlAtfqF6s)
 
-- [DEVCON1: SHH! Whisper - Gavin Wood][https://www.youtube.com/watch?v=lCA4BARxUUY]
+- [DEVCON1: SHH! Whisper - Gavin Wood](https://www.youtube.com/watch?v=lCA4BARxUUY)
 
-- [State of Whisper - Guilaume Ballet][https://www.youtube.com/watch?v=NiKY41ED9-0]
+- [State of Whisper - Guilaume Ballet](https://www.youtube.com/watch?v=NiKY41ED9-0)
 
-- [Whisper: Achieving Darkness - Vlad Gluhovsky][https://www.youtube.com/watch?v=koZizelOUeI]
+- [Whisper: Achieving Darkness - Vlad Gluhovsky](https://www.youtube.com/watch?v=koZizelOUeI)
 
 ### Blogs
 
-- [Whisper - PSS comparison - Status.im ][https://our.status.im/whisper-pss-comparison/]
+- [Whisper - PSS comparison - Status.im ](https://our.status.im/whisper-pss-comparison/)
 
 ## Community
 
 ### Fellowship of Ethereum Magicians
 
-- [WhiSpeG][https://ethereum-magicians.org/search?q=whispeg]
+- [WhiSpeG](https://ethereum-magicians.org/search?q=whispeg)
 
 ### Telegram
 
-- [Whisper Specification Group][]
+- [Whisper Specification Group]()
 
 ## Contribute
 

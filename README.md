@@ -45,9 +45,11 @@ Implementations of the Whisper subprotocol
 
 ## Applications
 
-### Desktop Interfaces
+### Standalone Interfaces
 
 - [wnode](https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode)
+
+- [whisper-cli](https://github.com/paritytech/parity-ethereum/tree/master/whisper)
 
 ### Web Interfaces
 

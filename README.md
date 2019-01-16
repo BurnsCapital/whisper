@@ -68,6 +68,8 @@ Implementations of the Whisper subprotocol
 
 ### Misc
 
+- [Releasing Wireshark dissectors for Ethereum ÐΞVp2p protocols” by Raúl Kripalani](https://link.medium.com/B9kv1w4juT)
+
 ## Developer Resources
 
 ### Libraries

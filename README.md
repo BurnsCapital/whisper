@@ -8,10 +8,9 @@ This repository gathers various whisper-related tools
 - [Whisper SubProtocol](#whisper-subprotocol)
   - [Implementations](#implementations)
   - [Specifications / White Papers](#specifications--white-papers)
+  - [wiki guides](#wiki--gides)
 - [Applications](#applications)
   - [Desktop Interfaces](#desktop-interfaces)
-  - [Web Interfaces](#web-interfaces)
-  - [Mobile applications](#mobile-applications)
   - [Explorers](#explorers)
   - [Misc](#misc)
 - [Developer Resources](#developer-resources)
@@ -61,15 +60,9 @@ Implementations of the Whisper subprotocol
 
 ### Standalone Interfaces
 
-- [wnode](https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode)
+- [wnode - geth](https://github.com/ethereum/go-ethereum/wiki/Diagnostic-Tool-wnode)
 
-- [whisper-cli](https://github.com/paritytech/parity-ethereum/tree/master/whisper)
-
-### Web Interfaces
-
-### Server/Router Clients
-
-### IoT Clients
+- [whisper-cli - paritytech](https://github.com/paritytech/parity-ethereum/tree/master/whisper)
 
 ### Explorers
 
@@ -86,6 +79,10 @@ Implementations of the Whisper subprotocol
 - [Whisper — Shh! - CaelumL abs](https://medium.com/caelumlabs/whisper-shh-bc5416ec0046)
 
 - [Introducing Bloom Payment Channels Enabled By Ethereum Whisper](https://blog.hellobloom.io/introducing-bloom-payment-channels-enabled-by-ethereum-whisper-1fec8ba10a03)
+
+- [Embark into Whisper - making gossip easy - status.im](https://status.im/tutorials/whisper_embark.html)
+
+- [Whisper in your CLI - status.im](https://status.im/tutorials/whisper_basic_cli.html)
 
 ### Example Projects
 
